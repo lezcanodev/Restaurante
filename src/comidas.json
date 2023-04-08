@@ -1,0 +1,37 @@
+[
+    {
+      "name": "Pizza Margarita",
+      "price": 12.99,
+      "img": "margarita.jpg"
+    },
+    {
+      "name": "Hamburguesa con queso",
+      "price": 8.99,
+      "img": "hamburguesa.jpg"
+    },
+    {
+      "name": "Ensalada César",
+      "price": 7.99,
+      "img": "ensalada.jpg"
+    },
+    {
+      "name": "Sopa de tomate",
+      "price": 5.99,
+      "img": "sopatomate.jpg"
+    },
+    {
+      "name": "Taco de pescado",
+      "price": 3.99,
+      "img": "tocaopescado.jpg"
+    },
+    {
+      "name": "Sushi de salmón",
+      "price": 16.99,
+      "img": "sushi.jpg"
+    },
+    {
+        "name":"La Milanesa Perfecta ",
+        "price":15,
+        "img": "milanesa.jpg"
+    }
+]
